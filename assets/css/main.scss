@@ -1,0 +1,28 @@
+html {
+  font-family: 'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+  font-size: 16px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  background-color: #FAFAFC;
+  width: 100%;
+  min-height: 100vh;
+}
+
+body, #__nuxt, #__layout, #layout_default {
+  width: 100%;
+  height: 100%;
+}
+
+*,
+*::before,
+*::after {
+  font-family: 'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+  box-sizing: border-box;
+  margin: 0;
+}
